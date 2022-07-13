@@ -1,7 +1,8 @@
 # Thanks for visiting my Git! 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince1456&label=Profile%20views&color=0e75b6&style=flat" alt="derrickmehaffy" /> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=prince1456)](https://github.com/ryo-ma/github-profile-trophy)
-## Hello
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince1456&label=Profile%20views&color=0e75b6&style=flat" alt="Ali Alizada" /> </p>
+
+## Welcome to my profile
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Highlights
 
